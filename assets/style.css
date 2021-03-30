@@ -1,0 +1,89 @@
+
+
+body {
+    background-color:black;
+    color:gold;
+    margin:auto;
+    padding: auto;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: gold;
+    color:black;
+}
+
+header h1 {
+    font-weight:bold;
+    font-size: 36px;
+    display: inline;
+
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+    
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px; 
+}
+
+
+
+p {
+    font-size: large;
+}
+
+.intro {
+    text-align:center ;
+}
+
+.hero {
+    background-size:cover;
+    height: fit-content;
+    
+}
+
+.container-1 {
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.container-1 div {
+    border: 1px #FFD700 solid;
+    padding: 10px;
+   
+}
+
+.box-1 {
+    width: min-content;
+    
+} 
+
+.box-2 {
+    
+    width: min-content;
+    
+}
+
+
+
+
+
+
+
